@@ -1,0 +1,17 @@
+﻿  Box2dEmptyApp.cpp
+  Game.cpp
+C:\Users\exequ\Desktop\Box2dTemplate\Box2dTemplate\Src\Game.cpp(50,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\exequ\Desktop\Box2dTemplate\Box2dTemplate\Src\Game.cpp(50,55): warning C4244:         with
+C:\Users\exequ\Desktop\Box2dTemplate\Box2dTemplate\Src\Game.cpp(50,55): warning C4244:         [
+C:\Users\exequ\Desktop\Box2dTemplate\Box2dTemplate\Src\Game.cpp(50,55): warning C4244:             T=float
+C:\Users\exequ\Desktop\Box2dTemplate\Box2dTemplate\Src\Game.cpp(50,55): warning C4244:         ]
+C:\Users\exequ\Desktop\Box2dTemplate\Box2dTemplate\Src\Game.cpp(55,56): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\exequ\Desktop\Box2dTemplate\Box2dTemplate\Src\Game.cpp(55,56): warning C4244:         with
+C:\Users\exequ\Desktop\Box2dTemplate\Box2dTemplate\Src\Game.cpp(55,56): warning C4244:         [
+C:\Users\exequ\Desktop\Box2dTemplate\Box2dTemplate\Src\Game.cpp(55,56): warning C4244:             T=float
+C:\Users\exequ\Desktop\Box2dTemplate\Box2dTemplate\Src\Game.cpp(55,56): warning C4244:         ]
+  SFMLRenderer.cpp
+C:\Users\exequ\Desktop\Box2dTemplate\Box2dTemplate\Src\SFMLRenderer.cpp(121,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\exequ\Desktop\Box2dTemplate\Box2dTemplate\Src\SFMLRenderer.cpp(121,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Box2dEmptyApp.vcxproj -> C:\Users\exequ\Desktop\Box2dTemplate\Box2dTemplate\Bin\Debug\Box2dEmptyApp.exe
